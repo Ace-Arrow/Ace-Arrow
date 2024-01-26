@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Ace-Arrow
-- 👀 I’m interested in games and such
+- 👀 I’m interested in things idk
 - 🌱 I’m currently learning how to be an accountant
-- 📫 How to reach me errornumber397@gmail.com
+- 📫 How to reach me: you cant :}
 - ⚡ Fun fact: my username is a pun on myself
 - 📜 I have experience coding with Javascript, C++, HTML, Python, and CSS
 - ♠️ woah
